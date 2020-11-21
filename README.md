@@ -7,10 +7,9 @@
   <img src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67" data-canonical-src="https://i.ibb.co/Kx2GSrT/linkedin.png" style="max-width:100%;" width="48px" height="48px">
 </a>
 
-<a target="_blank" href="mailto:pablo.trybe@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" style="max-width:100%;" width="48px" height="48px"/> 
+<a target="_blank" href="mailto:arycleniobarros@gmail.com">
+  <img align="left" alt="Gmail" width="48px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
 
 ### Hi there / Olá a todos 👋
 Eu sou o **Pablo**, sou de Brumado, Bahia, sou formado em Ciência da Computação e atualmente estou estudando desenvolvimento de software na Trybe com o objetivo de me tornar um **Desenvolvedor Full Stack**. Atualmente estou terminando o módulo de front end e logo mais iniciarei minha caminhada no back end.
