@@ -8,8 +8,9 @@
 </a>
 
 <a target="_blank" href="mailto:pablo.trybe@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://icon-icons.com/icon/google-mail-gmail-logo/159346" style="max-width:100%;" width="48px" height="48px"/> 
+  <img align="left" alt="Gmail" width="22px" src="https://raw.githubusercontent.com/PHTF92/PHTF92/master/images/gmail.png" style="max-width:100%;" width="48px" height="48px"/> 
 </a>
+
 
 ### Hi there / Olá a todos 👋
 Eu sou o **Pablo**, sou de Brumado, Bahia, sou formado em Ciência da Computação e atualmente estou estudando desenvolvimento de software na Trybe com o objetivo de me tornar um **Desenvolvedor Full Stack**. Atualmente estou terminando o módulo de front end e logo mais iniciarei minha caminhada no back end.
