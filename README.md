@@ -8,7 +8,7 @@
 </a>
 
 <a target="_blank" href="mailto:pablo.trybe@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> style="max-width:100%;" width="48px" height="48px">
 </a>
 
 ### Hi there / Olá a todos 👋
