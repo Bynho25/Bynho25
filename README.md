@@ -27,7 +27,13 @@ Eu sou o **Pablo**, sou de Brumado, Bahia, sou formado em Ciência da Computaç�
   
   <img src="https://camo.githubusercontent.com/41658d5ca4d38291a5bcb60841440cb7f35057a83ebf9e871b41ff41ca573622/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" alt="javascript" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" style="max-width:100%;" width="40" height="40">
   
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <img src="https://camo.githubusercontent.com/4c787c5c6189ca6ce26a7f1cf5e5d62c4e5f9de96413adee2643b8fdca490877/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656163742f72656163742d6f726967696e616c2d776f72646d61726b2e737667" alt="react" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" style="max-width:100%;" width="40" height="40">
+  
+  <img src="https://camo.githubusercontent.com/03bd03b2a921202097c83e11cfa5d7b112e0b1385df73907fa2a162b4c1377a5/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f72656475782f72656475782d6f726967696e616c2e737667" alt="redux" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" style="max-width:100%;" width="40" height="40">
+  
+  <img src="https://camo.githubusercontent.com/806761350c1aaba2b12e14297d299fc7858248df4f96d464d6240be5f05fd6d5/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" alt="linux" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" style="max-width:100%;" width="40" height="40">
+  
+  <img src="https://camo.githubusercontent.com/972b83b5e5f33e71f2c18414f088759f5dc9bfb7c8fc999ce48e630598d27966/68747470733a2f2f64657669636f6e732e6769746875622e696f2f64657669636f6e2f64657669636f6e2e6769742f69636f6e732f6769742f6769742d6f726967696e616c2e737667" alt="git" data-canonical-src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" style="max-width:100%;" width="40" height="40">
   
  </p>
  
